@@ -24,9 +24,9 @@ Connections:
 ---
 
 ## 🌐 Wokwi Simulation
-👉 [Click here to open the simulation]()
+👉 [Click here to open the simulation](https://wokwi.com/projects/442156293216352257)
 
-⚠️ **Note for Wokwi:**  
+⚠️ **NOTE FOR WOKWI:**  
 - Wokwi does not support direct Blynk cloud connection.  
 - If you want to test in Wokwi, **comment out these lines** in `setup()` and `loop()`:
   ```cpp
